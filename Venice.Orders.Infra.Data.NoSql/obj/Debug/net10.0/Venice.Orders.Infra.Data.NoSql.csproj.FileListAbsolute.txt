@@ -1,0 +1,13 @@
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Infra.Data.NoSql/bin/Debug/net10.0/Venice.Orders.Infra.Data.NoSql.deps.json
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Infra.Data.NoSql/bin/Debug/net10.0/Venice.Orders.Infra.Data.NoSql.dll
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Infra.Data.NoSql/bin/Debug/net10.0/Venice.Orders.Infra.Data.NoSql.pdb
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Infra.Data.NoSql/obj/Debug/net10.0/Venice.Orders.Infra.Data.NoSql.csproj.AssemblyReference.cache
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Infra.Data.NoSql/obj/Debug/net10.0/Venice.Orders.Infra.Data.NoSql.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Infra.Data.NoSql/obj/Debug/net10.0/Venice.Orders.Infra.Data.NoSql.AssemblyInfoInputs.cache
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Infra.Data.NoSql/obj/Debug/net10.0/Venice.Orders.Infra.Data.NoSql.AssemblyInfo.cs
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Infra.Data.NoSql/obj/Debug/net10.0/Venice.Orders.Infra.Data.NoSql.csproj.CoreCompileInputs.cache
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Infra.Data.NoSql/obj/Debug/net10.0/Venice.Orders.Infra.Data.NoSql.sourcelink.json
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Infra.Data.NoSql/obj/Debug/net10.0/Venice.Orders.Infra.Data.NoSql.dll
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Infra.Data.NoSql/obj/Debug/net10.0/refint/Venice.Orders.Infra.Data.NoSql.dll
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Infra.Data.NoSql/obj/Debug/net10.0/Venice.Orders.Infra.Data.NoSql.pdb
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Infra.Data.NoSql/obj/Debug/net10.0/ref/Venice.Orders.Infra.Data.NoSql.dll
