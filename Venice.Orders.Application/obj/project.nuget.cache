@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZL7CRszUN44=",
+  "success": true,
+  "projectFilePath": "/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/Venice.Orders.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/thiagorsilva/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512",
+    "/Users/thiagorsilva/.nuget/packages/fluentvalidation.aspnetcore/11.3.1/fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "/Users/thiagorsilva/.nuget/packages/fluentvalidation.dependencyinjectionextensions/12.1.1/fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
+    "/Users/thiagorsilva/.nuget/packages/microsoft.extensions.caching.abstractions/10.0.2/microsoft.extensions.caching.abstractions.10.0.2.nupkg.sha512",
+    "/Users/thiagorsilva/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.2/microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512",
+    "/Users/thiagorsilva/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.2/microsoft.extensions.logging.abstractions.10.0.2.nupkg.sha512",
+    "/Users/thiagorsilva/.nuget/packages/microsoft.extensions.primitives/10.0.2/microsoft.extensions.primitives.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

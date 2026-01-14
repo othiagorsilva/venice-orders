@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Venice.Orders.Domain\Venice.Orders.Domain.csproj" />
+    <ProjectReference Include="..\Venice.Orders.Infra.Data.Sql\Venice.Orders.Infra.Data.Sql.csproj" />
+    <ProjectReference Include="..\Venice.Orders.Infra.Data.NoSql\Venice.Orders.Infra.Data.NoSql.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="10.0.2" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

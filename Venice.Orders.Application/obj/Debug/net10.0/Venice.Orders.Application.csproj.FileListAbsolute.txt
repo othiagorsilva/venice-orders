@@ -1,0 +1,16 @@
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/bin/Debug/net10.0/Venice.Orders.Application.deps.json
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/bin/Debug/net10.0/Venice.Orders.Application.dll
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/bin/Debug/net10.0/Venice.Orders.Application.pdb
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/bin/Debug/net10.0/Venice.Orders.Domain.dll
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/bin/Debug/net10.0/Venice.Orders.Domain.pdb
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/obj/Debug/net10.0/Venice.Orders.Application.csproj.AssemblyReference.cache
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/obj/Debug/net10.0/Venice.Orders.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/obj/Debug/net10.0/Venice.Orders.Application.AssemblyInfoInputs.cache
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/obj/Debug/net10.0/Venice.Orders.Application.AssemblyInfo.cs
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/obj/Debug/net10.0/Venice.Orders.Application.csproj.CoreCompileInputs.cache
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/obj/Debug/net10.0/Venice.Orders.Application.sourcelink.json
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/obj/Debug/net10.0/Venice.O.91D1BE80.Up2Date
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/obj/Debug/net10.0/Venice.Orders.Application.dll
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/obj/Debug/net10.0/refint/Venice.Orders.Application.dll
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/obj/Debug/net10.0/Venice.Orders.Application.pdb
+/Users/thiagorsilva/Projects/Study-Tests/venice-orders/venice-orders/Venice.Orders.Application/obj/Debug/net10.0/ref/Venice.Orders.Application.dll

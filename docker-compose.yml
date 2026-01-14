@@ -1,0 +1,57 @@
+version: "3.9"
+
+services:
+
+  api:
+    build:
+      context: .
+      dockerfile: Venice.Orders.Api/Dockerfile
+    container_name: venice-orders-api
+    ports:
+      - "5010:8080"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      SqlServerConnString: Server=sqlserver,1433;Database=VeniceOrders;User Id=sa;Password=Your_password123;TrustServerCertificate=True
+      MongoConnString: mongodb://mongodb:27017
+      MongoDatabase: VeniceOrdersDb
+      RedisConnString: redis:6379
+    depends_on:
+      - sqlserver
+      - mongodb
+      - rabbitmq
+
+  sqlserver:
+    image: mcr.microsoft.com/azure-sql-edge
+    container_name: venice-orders-sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "Your_password123"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+
+  mongodb:
+    image: mongo:7
+    container_name: venice-orders-mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: venice_rabbitmq
+    ports:
+      - "5672:5672"   # AMQP
+      - "15672:15672" # Painel (Login: guest / guest)
+
+  redis:
+    image: redis:alpine
+    container_name: venice_redis
+    ports:
+      - "6379:6379"
+
+volumes:
+  sqlserver_data:
+  mongo_data:
